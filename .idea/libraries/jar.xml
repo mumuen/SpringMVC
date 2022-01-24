@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/jar 包/spring/spring-framework-4.3.9.RELEASE-dist/spring-framework-4.3.9.RELEASE/libs/spring-aop-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jar 包/spring/spring-framework-4.3.9.RELEASE-dist/spring-framework-4.3.9.RELEASE/libs/spring-beans-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jar 包/spring/spring-framework-4.3.9.RELEASE-dist/spring-framework-4.3.9.RELEASE/libs/spring-context-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jar 包/spring/spring-framework-4.3.9.RELEASE-dist/spring-framework-4.3.9.RELEASE/libs/spring-core-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jar 包/spring/spring-framework-4.3.9.RELEASE-dist/spring-framework-4.3.9.RELEASE/libs/spring-expression-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jar 包/spring/spring-framework-4.3.9.RELEASE-dist/spring-framework-4.3.9.RELEASE/libs/spring-jdbc-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jar 包/spring/spring-framework-4.3.9.RELEASE-dist/spring-framework-4.3.9.RELEASE/libs/spring-tx-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jar 包/spring/spring-framework-4.3.9.RELEASE-dist/spring-framework-4.3.9.RELEASE/libs/spring-web-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jar 包/spring/spring-framework-4.3.9.RELEASE-dist/spring-framework-4.3.9.RELEASE/libs/spring-webmvc-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jar 包/spring/spring-framework-4.3.9.RELEASE-dist/spring-framework-4.3.9.RELEASE/libs/spring-webmvc-portlet-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jar 包/spring/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jar 包/数据库/commons-dbcp-1.4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jar 包/数据库/commons-pool-1.6.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jar 包/数据库/mysql-connector-java-5.1.45-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
